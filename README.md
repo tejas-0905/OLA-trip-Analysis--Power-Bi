@@ -28,7 +28,7 @@ This repository contains a Power BI dashboard project focused on analyzing OLA r
 - DAX (Data Analysis Expressions)
 - Excel (for data input) 
 
-## 💡 Sample Insights
+##  Sample Insights
 - Peak demand during weekday mornings and weekend evenings
 - Certain boroughs show significantly higher ride density
 - OLA Comfort usage spikes during office hours in urban areas
