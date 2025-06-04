@@ -22,7 +22,7 @@ This repository contains a Power BI dashboard project focused on analyzing OLA r
 - **Category-wise Ride Analysis (e.g., OLAX, OLA Comfort)**
 - **KPIs**: Total Rides, Active Days, Average Trip Count
 
-### 🧰 Tools & Technologies
+###  Tools & Technologies
 - Power BI Desktop
 - Power Query Editor
 - DAX (Data Analysis Expressions)
