@@ -3,7 +3,7 @@
 ###  Overview
 This repository contains a Power BI dashboard project focused on analyzing OLA ride data. It aims to uncover insights such as peak demand times, ride distribution across locations, and customer behavior over time.
 
-###  Objectives
+###  Objective
 - Perform data cleaning and transformation using Power Query
 - Model data and create relationships between tables
 - Use DAX to create calculated columns and measures
