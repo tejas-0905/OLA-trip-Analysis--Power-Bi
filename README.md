@@ -10,7 +10,7 @@ This repository contains a Power BI dashboard project focused on analyzing OLA r
 - Build interactive dashboards with time-based and geographic filters
 - Derive actionable insights for transportation and ride optimization
 
-### 📁 Contents
+###  Contents
 - `pbix-files/OLA.pbix` — Main Power BI report file
 - `data/Ola Trip Datasets.xlsx` — Dataset used for visualization
 - `docs/OLA_sales.pdf` — Additional documentation and summary insights
