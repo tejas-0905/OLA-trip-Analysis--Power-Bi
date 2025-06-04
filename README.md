@@ -15,7 +15,7 @@ This repository contains a Power BI dashboard project focused on analyzing OLA r
 - `data/Ola Trip Datasets.xlsx` — Dataset used for visualization
 - `docs/OLA_sales.pdf` — Additional documentation and summary insights
 
-### 🔍 Key Visualizations
+###  Key Visualizations
 - **Monthly Ride Trends**
 - **Hourly Demand Heatmap**
 - **Pick-up Locations Map**
