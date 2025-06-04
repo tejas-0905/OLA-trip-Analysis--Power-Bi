@@ -26,7 +26,7 @@ This repository contains a Power BI dashboard project focused on analyzing OLA r
 - Power BI Desktop
 - Power Query Editor
 - DAX (Data Analysis Expressions)
-- Excel (for data input)
+- Excel (for data input) 
 
 ## 💡 Sample Insights
 - Peak demand during weekday mornings and weekend evenings
