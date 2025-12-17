@@ -1,16 +1,31 @@
-##  OLA Ride Analysis using Power BI 
+#  OLA Ride Analysis using Power BI 
 
-###  Overview
-This repository contains a Power BI dashboard project focused on analyzing OLA ride data. It aims to uncover insights such as peak demand times, ride distribution across locations, and customer behavior over time.
+##  Overview
+This project explores the OLA ride-hailing dataset to uncover trends in trip demand, revenue, rider ratings, and booking behavior. Using Power BI, we build an interactive dashboard that helps decision-makers quickly understand:
 
-###  Objectives
-- Perform data cleaning and transformation using Power Query
-- Model data and create relationships between tables
-- Use DAX to create calculated columns and measures
-- Build interactive dashboards with time-based and geographic filters
-- Derive actionable insights for transportation and ride optimization
+✔ Ride volume trends 
 
-###  Contents
+✔ Revenue breakdowns by payment type
+
+✔ Rider satisfaction and ratings distributions
+
+✔ Peak hours and popular routes
+
+✔ Cancellation patterns and insights
+
+The dashboard is designed for data analysts, business stakeholders, and transport operations teams to make data-driven decisions.
+
+## Tools & Technologies
+
+| Tool                 | Purpose                                 |
+| -------------------- | --------------------------------------- |
+| **Power BI Desktop** | Dashboard creation & data visualization |
+| **Power Query**      | Data cleaning & transformation          |
+| **DAX**              | Calculated measures and metrics         |
+| **GitHub**           | Version control and repository hosting  |
+
+
+##  Contents
 - `pbix-files/OLA.pbix` — Main Power BI report files
 - `data/Ola Trip Datasets.xlsx` — Dataset used for visualization
 - `docs/OLA_sales.pdf` — Additional documentation and summary insights
