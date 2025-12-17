@@ -38,6 +38,8 @@ The dashboard is designed for data analysts, business stakeholders, and transpor
 - **KPIs**: Total Rides, Active Days, Average Trip Count
 
 ![OLA trip analysis](ola1.jpg)
+![OLA trip analysis](ola2.jpg)
+![OLA trip analysis](ola3.jpg)
 
 ## How to View the Dashboard
 
