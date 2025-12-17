@@ -37,12 +37,6 @@ The dashboard is designed for data analysts, business stakeholders, and transpor
 - **Category-wise Ride Analysis (e.g., OLAX, OLA Comfort)**
 - **KPIs**: Total Rides, Active Days, Average Trip Count
 
-###  Tools & Technologies
-- Power BI Desktop
-- Power Query Editor
-- DAX (Data Analysis Expressions)
-- Excel (for data input) 
-
 ##  Sample Insights
 - Peak demand during weekday mornings and weekend evenings
 - Certain boroughs show significantly higher ride density
