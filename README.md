@@ -30,15 +30,27 @@ The dashboard is designed for data analysts, business stakeholders, and transpor
 - `data/Ola Trip Datasets.xlsx` — Dataset used for visualization
 - `docs/OLA_sales.pdf` — Additional documentation and summary insights
 
-###  Key Visualization
+##  Key Visualization
 - **Monthly Ride Trends**
 - **Hourly Demand Heatmap**
 - **Pick-up Locations Map**
 - **Category-wise Ride Analysis (e.g., OLAX, OLA Comfort)**
 - **KPIs**: Total Rides, Active Days, Average Trip Count
 
+
+## How to View the Dashboard
+
+1. Download the .pbix file from this repository.
+
+2. Open it using Power BI Desktop.
+
+3. Explore visuals using interactive slicers and filters.
+
+4. Hover over charts to see detailed tooltips and metrics.
+
 ##  Sample Insights
 - Peak demand during weekday mornings and weekend evenings
 - Certain boroughs show significantly higher ride density
 - OLA Comfort usage spikes during office hours in urban areas
+
 
