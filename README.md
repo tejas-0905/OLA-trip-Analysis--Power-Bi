@@ -37,6 +37,7 @@ The dashboard is designed for data analysts, business stakeholders, and transpor
 - **Category-wise Ride Analysis (e.g., OLAX, OLA Comfort)**
 - **KPIs**: Total Rides, Active Days, Average Trip Count
 
+![HR Analytics Dashboard](ola1.jpg)
 
 ## How to View the Dashboard
 
